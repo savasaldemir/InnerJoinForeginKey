@@ -1,0 +1,11 @@
+C:\Users\savas\source\repos\ForginKey ve Inner Join Örnek Uygulam\ForginKey ve Inner Join Örnek Uygulam\bin\Debug\ForginKey ve Inner Join Örnek Uygulam.exe.config
+C:\Users\savas\source\repos\ForginKey ve Inner Join Örnek Uygulam\ForginKey ve Inner Join Örnek Uygulam\bin\Debug\ForginKey ve Inner Join Örnek Uygulam.exe
+C:\Users\savas\source\repos\ForginKey ve Inner Join Örnek Uygulam\ForginKey ve Inner Join Örnek Uygulam\bin\Debug\ForginKey ve Inner Join Örnek Uygulam.pdb
+C:\Users\savas\source\repos\ForginKey ve Inner Join Örnek Uygulam\ForginKey ve Inner Join Örnek Uygulam\obj\Debug\ForginKey ve Inner Join Örnek Uygulam.csproj.AssemblyReference.cache
+C:\Users\savas\source\repos\ForginKey ve Inner Join Örnek Uygulam\ForginKey ve Inner Join Örnek Uygulam\obj\Debug\ForginKey_ve_Inner_Join_Örnek_Uygulam.Properties.Resources.resources
+C:\Users\savas\source\repos\ForginKey ve Inner Join Örnek Uygulam\ForginKey ve Inner Join Örnek Uygulam\obj\Debug\ForginKey ve Inner Join Örnek Uygulam.csproj.GenerateResource.cache
+C:\Users\savas\source\repos\ForginKey ve Inner Join Örnek Uygulam\ForginKey ve Inner Join Örnek Uygulam\obj\Debug\ForginKey ve Inner Join Örnek Uygulam.csproj.CoreCompileInputs.cache
+C:\Users\savas\source\repos\ForginKey ve Inner Join Örnek Uygulam\ForginKey ve Inner Join Örnek Uygulam\obj\Debug\ForginKey ve Inner Join Örnek Uygulam.exe
+C:\Users\savas\source\repos\ForginKey ve Inner Join Örnek Uygulam\ForginKey ve Inner Join Örnek Uygulam\obj\Debug\ForginKey ve Inner Join Örnek Uygulam.pdb
+C:\Users\savas\source\repos\ForginKey ve Inner Join Örnek Uygulam\ForginKey ve Inner Join Örnek Uygulam\obj\Debug\ForginKey ve Inner Join Örnek Uygulam.exe.config
+C:\Users\savas\source\repos\ForginKey ve Inner Join Örnek Uygulam\ForginKey ve Inner Join Örnek Uygulam\obj\Debug\ForginKey_ve_Inner_Join_Örnek_Uygulam.forginKey_Join_Alistirma.resources
