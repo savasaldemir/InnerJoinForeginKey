@@ -1,0 +1,2 @@
+# InnerJoinForeginKey
+UygulamaProjem
